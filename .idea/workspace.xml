@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PropertiesComponent">{}</component>
+  <component name="RunManager" selected="C/C++ File.2_praktinis.cpp (1)">
+    <configuration name="2_praktinis.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="struktuirnis" TARGET_NAME="2_praktinis.cpp" CONFIG_NAME="2_praktinis.cpp">
+      <option name="sourceFile" value="praktiniai\2_praktinis.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2_praktinis.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="struktuirnis" TARGET_NAME="2_praktinis.cpp" CONFIG_NAME="2_praktinis.cpp">
+      <option name="sourceFile" value="2_praktinis.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.2_praktinis.cpp (1)" />
+        <item itemvalue="C/C++ File.2_praktinis.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
